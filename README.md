@@ -1,7 +1,7 @@
 # node-nginx-demo
 node, nginx小例子
 
-安装nginx可参照这票文章：<a target="_blank">https://my.oschina.net/indestiny/blog/220017</a>
+安装nginx可参照这票文章：<a href="https://my.oschina.net/indestiny/blog/220017" target="_blank">https://my.oschina.net/indestiny/blog/220017</a>
 
 安装好后配置nginx.conf文件：（该文件在mac下的路径为：/usr/local/nginx/nginx.conf）
 
